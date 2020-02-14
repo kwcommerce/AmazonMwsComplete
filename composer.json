@@ -1,5 +1,5 @@
 {
-    "name": "caponica/amazon-mws-complete",
+    "name": "KWCommerce/amazonmwscomplete",
     "type": "library",
     "license": "Apache-2.0",
     "description": "Complete Amazon MWS PHP SDK, including all libraries",
