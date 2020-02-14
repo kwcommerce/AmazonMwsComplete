@@ -1,5 +1,5 @@
 {
-    "name": "KWCommerce/amazonmwscomplete",
+    "name": "kwcommerce/amazonmwscomplete",
     "type": "library",
     "license": "Apache-2.0",
     "description": "Complete Amazon MWS PHP SDK, including all libraries",
